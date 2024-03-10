@@ -24,29 +24,29 @@ BankApp is a simple banking application developed in Go, designed to demonstrate
 
 Clone the repository:
 
-\`\`\`bash
+``bash
 git clone https://github.com/yourusername/BankApp.git
 cd BankApp
-\`\`\`
+``
 
 Install dependencies:
 
-\`\`\`bash
+``bash
 go mod tidy
-\`\`\`
+``
 
 ### Development Setup
 
 Use the Makefile commands to manage the PostgreSQL database via Docker, handle database migrations, and generate database code.
 
-\`\`\`bash
+``bash
 make postgres # Start the PostgreSQL container
 make createdb # Create the database
 make dropdb # Drop the database
 make migrateup # Apply database migrations
 make migratedown # Revert database migrations
 make sqlc # Generate SQL code
-\`\`\`
+``
 
 ## Usage
 
