@@ -28,7 +28,7 @@ Clone the repository:
 git clone https://github.com/harbouli/simple-bank.git
 ``
 ``
-cd BankApp
+cd simple-bank
 ``
 
 Install dependencies:
