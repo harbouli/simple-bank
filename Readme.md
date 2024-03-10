@@ -25,7 +25,9 @@ BankApp is a simple banking application developed in Go, designed to demonstrate
 Clone the repository:
 
 ``bash
-git clone https://github.com/yourusername/BankApp.git
+git clone https://github.com/harbouli/simple-bank.git
+``
+``
 cd BankApp
 ``
 
