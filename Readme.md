@@ -3,6 +3,7 @@
 
 
 BankApp is a simple banking application developed in Go, designed to demonstrate basic CRUD operations with an emphasis on maintaining ACID properties. It showcases best practices in application development, including unit testing, continuous integration with GitHub Actions, and containerization with Docker for easy database setup and migration.
+![Project Thumbnail](./assets/CRUD_GO.webp)
 
 ## Features
 
